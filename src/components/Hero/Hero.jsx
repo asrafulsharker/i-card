@@ -31,7 +31,7 @@ function Hero() {
                 </Link>
             </div>
             <div className="right" style={{height:"100%",display:"flex",}}>
-                <img src="../../../public/images/hero mobile.png" style={{paddingTop:"30vh"}} alt="" />
+                <img src="/images/hero mobile.png" style={{paddingTop:"30vh"}} alt="" />
             </div>
         </div>
             </Container>

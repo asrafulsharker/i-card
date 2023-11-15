@@ -5,10 +5,10 @@ import { NavLink } from 'react-router-dom'
 function Nav() {
   return (
     <>
-        <div className="nav" style={{backgroundColor:"#FFF",paddingTop:"22px",paddingBottom:"22px",position:"fixed",width:"100%"}}>
+        <div className="nav" style={{backgroundColor:"#FFF",paddingTop:"22px",paddingBottom:"22px",position:"fixed",width:"100%",zIndex:"100"}}>
             <Container>
                 <div className="" style={{display:"flex",alignItems:"center",justifyContent:"space-between"}}>
-                <img src="../../../public/images/iCard-logo-3 2.png" alt="logo" />
+                <img src="/images/iCard-logo-3 2.png" alt="logo" />
                 <div className="" style={{display:"flex", flexWrap:"wrap",gap:"20px",alignItems:"center"}}>
                     <NavLink style={{textDecoration:"none",fontSize:"16px",fontWeight:"400",color:"#282927"}} to="/">Home</NavLink>
                     <NavLink style={{textDecoration:"none",fontSize:"16px",fontWeight:"400",color:"#282927"}}  to="/">About</NavLink>

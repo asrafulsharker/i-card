@@ -8,7 +8,7 @@ function About() {
         <Container>
             <div className="" style={{display:"flex",alignItems:"center",justifyContent:"space-between",gap:"100px"}}>
                 <div className="left" style={{display:"flex",alignItems:"center",justifyContent:"center"}}>
-                    <img src="../../../public/images/about.png" alt="" />
+                    <img src="/images/about.png" alt="" />
                 </div>
                 <div className="right" style={{display:"flex",flexDirection:"column",gap:"10px"}}>
                     <p style={{fontSize:"40px",fontWeight:"700",lineHeight:"49px",letterSpacing:"-2px",color:"#4A4747"}}>Managing Business <span style={{color:"#11998E"}}>Card</span> have never been <span style={{color:"#2AB866"}}>Easier</span></p>

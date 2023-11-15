@@ -15,8 +15,8 @@ function CTASection() {
                 <div className="left" style={{display:"flex",flexDirection:"column",justifyContent:"center"}}>
                     <p style={{fontSize:"40px", fontWeight:"700",lineHeight:"51px",textTransform:'capitalize'}}>digitalize your business card Save Cost, Save Environment </p>
                     <div className="" style={{display:"flex",gap:"20px"}}>
-                        <Link to="/"><img src="../../../public/images/Google Play.png" alt="" /></Link>
-                        <Link to="/"><img src="../../../public/images/App Store.png" alt="" /></Link>
+                        <Link to="/"><img src="/images/Google Play.png" alt="" /></Link>
+                        <Link to="/"><img src="/public/images/App Store.png" alt="" /></Link>
                     </div>
                 </div>
                 <div className="right" style={{height:"100%",display:"flex"}}>
