@@ -33,7 +33,7 @@ export default function App() {
             <div className="" style={{display:'flex', backgroundColor: "#000",borderRadius:"20px",padding:"30px",gap:"30px"}}>
                 <img src="/images/slider.png" alt="" style={{width:"270px"}}/>
                 <div className="" style={{display:"flex",flexDirection:"column",color:"#FFF",textAlign:"left"}}>
-                    <div className="" style={{display:'flex',alignItems:'end',justifyContent:"end",width:"100%"}}><img style={{width:"37px"}} src="../../../public/images/icons/Quotes.png" alt="" /></div>
+                    <div className="" style={{display:'flex',alignItems:'end',justifyContent:"end",width:"100%"}}><img style={{width:"37px"}} src="/images/icons/Quotes.png" alt="" /></div>
                     <p style={{fontSize:"16px", color:"#CDCDCD",lineHeight:"22px",letterSpacing:"0.48px"}}>
                 Optio omnis harum eligendi quas. Inventore et nihil. Ut atque tempora minima sed rerum dolores hic quis. Commodi eaque ratione. Repudiandae consequatur ut quis similique.
                 </p>
@@ -47,7 +47,7 @@ export default function App() {
             <div className="" style={{display:'flex', backgroundColor: "#000",borderRadius:"20px",padding:"30px",gap:"30px"}}>
                 <img src="/images/slider2.png" alt="" style={{width:"270px"}}/>
                 <div className="" style={{display:"flex",flexDirection:"column",color:"#FFF",textAlign:"left"}}>
-                    <div className="" style={{display:'flex',alignItems:'end',justifyContent:"end",width:"100%"}}><img style={{width:"37px"}} src="../../../public/images/icons/Quotes.png" alt="" /></div>
+                    <div className="" style={{display:'flex',alignItems:'end',justifyContent:"end",width:"100%"}}><img style={{width:"37px"}} src="/images/icons/Quotes.png" alt="" /></div>
                     <p style={{fontSize:"16px", color:"#CDCDCD",lineHeight:"22px",letterSpacing:"0.48px"}}>
                 Optio omnis harum eligendi quas. Inventore et nihil. Ut atque tempora minima sed rerum dolores hic quis. Commodi eaque ratione. Repudiandae consequatur ut quis similique.
                 </p>
@@ -61,7 +61,7 @@ export default function App() {
             <div className="" style={{display:'flex', backgroundColor: "#000",borderRadius:"20px",padding:"30px",gap:"30px"}}>
                 <img src="/images/slider.png" alt="" style={{width:"270px"}}/>
                 <div className="" style={{display:"flex",flexDirection:"column",color:"#FFF",textAlign:"left"}}>
-                    <div className="" style={{display:'flex',alignItems:'end',justifyContent:"end",width:"100%"}}><img style={{width:"37px"}} src="../../../public/images/icons/Quotes.png" alt="" /></div>
+                    <div className="" style={{display:'flex',alignItems:'end',justifyContent:"end",width:"100%"}}><img style={{width:"37px"}} src="/images/icons/Quotes.png" alt="" /></div>
                     <p style={{fontSize:"16px", color:"#CDCDCD",lineHeight:"22px",letterSpacing:"0.48px"}}>
                 Optio omnis harum eligendi quas. Inventore et nihil. Ut atque tempora minima sed rerum dolores hic quis. Commodi eaque ratione. Repudiandae consequatur ut quis similique.
                 </p>
@@ -75,7 +75,7 @@ export default function App() {
             <div className="" style={{display:'flex', backgroundColor: "#000",borderRadius:"20px",padding:"30px",gap:"30px"}}>
                 <img src="/images/slider.png" alt="" style={{width:"270px"}}/>
                 <div className="" style={{display:"flex",flexDirection:"column",color:"#FFF",textAlign:"left"}}>
-                    <div className="" style={{display:'flex',alignItems:'end',justifyContent:"end",width:"100%"}}><img style={{width:"37px"}} src="../../../public/images/icons/Quotes.png" alt="" /></div>
+                    <div className="" style={{display:'flex',alignItems:'end',justifyContent:"end",width:"100%"}}><img style={{width:"37px"}} src="/images/icons/Quotes.png" alt="" /></div>
                     <p style={{fontSize:"16px", color:"#CDCDCD",lineHeight:"22px",letterSpacing:"0.48px"}}>
                 Optio omnis harum eligendi quas. Inventore et nihil. Ut atque tempora minima sed rerum dolores hic quis. Commodi eaque ratione. Repudiandae consequatur ut quis similique.
                 </p>
@@ -89,7 +89,7 @@ export default function App() {
             <div className="" style={{display:'flex', backgroundColor: "#000",borderRadius:"20px",padding:"30px",gap:"30px"}}>
                 <img src="/images/slider.png" alt="" style={{width:"270px"}}/>
                 <div className="" style={{display:"flex",flexDirection:"column",color:"#FFF",textAlign:"left"}}>
-                    <div className="" style={{display:'flex',alignItems:'end',justifyContent:"end",width:"100%"}}><img style={{width:"37px"}} src="../../../public/images/icons/Quotes.png" alt="" /></div>
+                    <div className="" style={{display:'flex',alignItems:'end',justifyContent:"end",width:"100%"}}><img style={{width:"37px"}} src="/images/icons/Quotes.png" alt="" /></div>
                     <p style={{fontSize:"16px", color:"#CDCDCD",lineHeight:"22px",letterSpacing:"0.48px"}}>
                 Optio omnis harum eligendi quas. Inventore et nihil. Ut atque tempora minima sed rerum dolores hic quis. Commodi eaque ratione. Repudiandae consequatur ut quis similique.
                 </p>
@@ -103,7 +103,7 @@ export default function App() {
             <div className="" style={{display:'flex', backgroundColor: "#000",borderRadius:"20px",padding:"30px",gap:"30px"}}>
                 <img src="/images/slider.png" alt="" style={{width:"270px"}}/>
                 <div className="" style={{display:"flex",flexDirection:"column",color:"#FFF",textAlign:"left"}}>
-                    <div className="" style={{display:'flex',alignItems:'end',justifyContent:"end",width:"100%"}}><img style={{width:"37px"}} src="../../../public/images/icons/Quotes.png" alt="" /></div>
+                    <div className="" style={{display:'flex',alignItems:'end',justifyContent:"end",width:"100%"}}><img style={{width:"37px"}} src="/images/icons/Quotes.png" alt="" /></div>
                     <p style={{fontSize:"16px", color:"#CDCDCD",lineHeight:"22px",letterSpacing:"0.48px"}}>
                 Optio omnis harum eligendi quas. Inventore et nihil. Ut atque tempora minima sed rerum dolores hic quis. Commodi eaque ratione. Repudiandae consequatur ut quis similique.
                 </p>
@@ -117,7 +117,7 @@ export default function App() {
             <div className="" style={{display:'flex', backgroundColor: "#000",borderRadius:"20px",padding:"30px",gap:"30px"}}>
                 <img src="/images/slider.png" alt="" style={{width:"270px"}}/>
                 <div className="" style={{display:"flex",flexDirection:"column",color:"#FFF",textAlign:"left"}}>
-                    <div className="" style={{display:'flex',alignItems:'end',justifyContent:"end",width:"100%"}}><img style={{width:"37px"}} src="../../../public/images/icons/Quotes.png" alt="" /></div>
+                    <div className="" style={{display:'flex',alignItems:'end',justifyContent:"end",width:"100%"}}><img style={{width:"37px"}} src="/images/icons/Quotes.png" alt="" /></div>
                     <p style={{fontSize:"16px", color:"#CDCDCD",lineHeight:"22px",letterSpacing:"0.48px"}}>
                 Optio omnis harum eligendi quas. Inventore et nihil. Ut atque tempora minima sed rerum dolores hic quis. Commodi eaque ratione. Repudiandae consequatur ut quis similique.
                 </p>
@@ -131,7 +131,7 @@ export default function App() {
             <div className="" style={{display:'flex', backgroundColor: "#000",borderRadius:"20px",padding:"30px",gap:"30px"}}>
                 <img src="/images/slider.png" alt="" style={{width:"270px"}}/>
                 <div className="" style={{display:"flex",flexDirection:"column",color:"#FFF",textAlign:"left"}}>
-                    <div className="" style={{display:'flex',alignItems:'end',justifyContent:"end",width:"100%"}}><img style={{width:"37px"}} src="../../../public/images/icons/Quotes.png" alt="" /></div>
+                    <div className="" style={{display:'flex',alignItems:'end',justifyContent:"end",width:"100%"}}><img style={{width:"37px"}} src="/images/icons/Quotes.png" alt="" /></div>
                     <p style={{fontSize:"16px", color:"#CDCDCD",lineHeight:"22px",letterSpacing:"0.48px"}}>
                 Optio omnis harum eligendi quas. Inventore et nihil. Ut atque tempora minima sed rerum dolores hic quis. Commodi eaque ratione. Repudiandae consequatur ut quis similique.
                 </p>

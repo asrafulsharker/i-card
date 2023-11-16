@@ -16,11 +16,11 @@ function CTASection() {
                     <p style={{fontSize:"40px", fontWeight:"700",lineHeight:"51px",textTransform:'capitalize'}}>digitalize your business card Save Cost, Save Environment </p>
                     <div className="" style={{display:"flex",gap:"20px"}}>
                         <Link to="/"><img src="/images/Google Play.png" alt="" /></Link>
-                        <Link to="/"><img src="/public/images/App Store.png" alt="" /></Link>
+                        <Link to="/"><img src="/images/App Store.png" alt="" /></Link>
                     </div>
                 </div>
                 <div className="right" style={{height:"100%",display:"flex"}}>
-                    <img src="../../../public/images/cta.png" alt="" />
+                    <img src="/images/cta.png" alt="" />
                 </div>
             </div>
         </Container>
