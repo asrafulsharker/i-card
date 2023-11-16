@@ -8,6 +8,7 @@ import HappyClient from '../HappyClient/HappyClient'
 import Pricing from '../Pricing/Pricing'
 import Interest from '../Interest/Interest'
 import Contacts from '../Contacts/Contacts'
+import Footer from '../Footer/Footer'
 
 function Home() {
   return (
@@ -22,6 +23,7 @@ function Home() {
             <Pricing/>
             <Interest/>
             <Contacts/>
+            <Footer/>
         </div>
     </>
 
