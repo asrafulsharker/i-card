@@ -5,6 +5,7 @@ import About from '../About/About'
 import CTASection from '../CTASection/CTASection'
 import Service from '../Service/Service'
 import HappyClient from '../HappyClient/HappyClient'
+import Pricing from '../Pricing/Pricing'
 
 function Home() {
   return (
@@ -16,6 +17,7 @@ function Home() {
             <CTASection/>
             <Service/>
             <HappyClient/>
+            <Pricing/>
         </div>
     </>
 

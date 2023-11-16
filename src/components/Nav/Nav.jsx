@@ -14,7 +14,7 @@ function Nav() {
                     <NavLink style={{textDecoration:"none",fontSize:"16px",fontWeight:"400",color:"#282927"}}  to="/">About</NavLink>
                     <NavLink style={{textDecoration:"none",fontSize:"16px",fontWeight:"400",color:"#282927"}}  to="/">Features</NavLink>
                     <NavLink style={{textDecoration:"none",fontSize:"16px",fontWeight:"400",color:"#282927"}}  to="/">Testimonial</NavLink>
-                    <NavLink style={{textDecoration:"none",fontSize:"16px",fontWeight:"400",color:"#282927"}}  to="/">Pricing</NavLink>
+                    <NavLink style={{textDecoration:"none",fontSize:"16px",fontWeight:"400",color:"#282927"}}  to="#pricing">Pricing</NavLink>
                     <NavLink style={{textDecoration:"none",fontSize:"16px",fontWeight:"400",color:"#282927"}}  to="/">Contact </NavLink>
                     <NavLink to="/">
                         <Button style={{backgroundColor:"#14A800",textTransform:"capitalize",color:"#FFF",fontSize:"18px",fontWeight:"600",padding:"10px 20px",borderRadius:"5px"}}>Download the APP</Button>
