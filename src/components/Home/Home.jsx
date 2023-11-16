@@ -4,7 +4,7 @@ import Hero from '../Hero/Hero'
 import About from '../About/About'
 import CTASection from '../CTASection/CTASection'
 import Service from '../Service/Service'
-import HappyClient from '../../HappyClient/HappyClient'
+import HappyClient from '../HappyClient/HappyClient'
 
 function Home() {
   return (
