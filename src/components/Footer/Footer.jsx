@@ -20,7 +20,7 @@ function Footer() {
             <div className="" style={footer}>
                 <Container>
                     <div className="">
-                        <div className="" style={{display:"flex",justifyContent:"space-between",paddingBottom:"5%",borderBottom:"1px solid #FFF"}}>
+                        <div className="" style={{display:"flex",justifyContent:"space-between",paddingBottom:"3%",borderBottom:"1px solid #FFF"}}>
                             <div className="" style={{width:'30%'}}>
                                 <img src="../../../public/images/iCardWhiteLogo.png" alt="" />
                                 <p style={{color:"#FFF", fontSize:"20px", lineHeight:"32px",fontWeight:"400"}}>+880 1308 042284</p>
