@@ -7,6 +7,7 @@ import Service from '../Service/Service'
 import HappyClient from '../HappyClient/HappyClient'
 import Pricing from '../Pricing/Pricing'
 import Interest from '../Interest/Interest'
+import Contacts from '../Contacts/Contacts'
 
 function Home() {
   return (
@@ -20,6 +21,7 @@ function Home() {
             <HappyClient/>
             <Pricing/>
             <Interest/>
+            <Contacts/>
         </div>
     </>
 
