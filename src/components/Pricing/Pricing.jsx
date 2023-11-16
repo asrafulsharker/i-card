@@ -7,11 +7,10 @@ function Pricing() {
 
     const pricing={
         background: `linear-gradient(180deg, #F9F9F9 0%, #DCE8F5 100%)`,
-        padding:`20% 0%`
     }
   return (
     <>
-    <div className="" style={{pricing}} id='pricing'>
+    <div className="" style={pricing} id='pricing'>
         <Container>
             <div className="" style={{padding:"10% 0%"}}>
                 <p style={{fontSize:"40px",width:"50%",fontWeight:"700",lineHeight:"49px",color:"#4A4747",letterSpacing:"-2px",textTransform:"capitalize"}}>Get the <span style={{color:"#11998E"}}>best</span> pricing for your paperless <span style={{color:"#2AB866"}}>solution</span></p>
