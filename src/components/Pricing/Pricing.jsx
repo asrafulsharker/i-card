@@ -19,7 +19,7 @@ function Pricing() {
                     
                     <div className="" style={{padding:"40px 32px",backgroundColor:"#FFF",borderRadius:"24px"}}>
                         <div className="" style={{display:"flex", alignItems:'center',gap:"10px"}}>
-                            <img src="../../../public/images/icons/basic.png" alt="" />
+                            <img src="/images/icons/basic.png" alt="" />
                             <div className="">
                             <p style={{color:"#6F6C90", fontSize:"18px",fontWeight:"500",marginBlockStart:"0em",marginBlockEnd:"0em"}}>For individuals</p>
                             <p style={{color:"#170F49", fontSize:"24px", fontWeight:"700",lineHeight:"35px",marginBlockStart:"0em",marginBlockEnd:"0em"}}>Basic</p>
@@ -52,7 +52,7 @@ function Pricing() {
 
                     <div className="middleBox" style={{padding:"40px 32px",backgroundColor:"",borderRadius:"24px"}}>
                         <div className="" style={{display:"flex", alignItems:'center',gap:"10px"}}>
-                            <img src="../../../public/images/icons/pro.png" alt="" />
+                            <img src="/images/icons/pro.png" alt="" />
                             <div className="">
                             <p style={{color:"#FFF", fontSize:"18px",fontWeight:"500",marginBlockStart:"0em",marginBlockEnd:"0em"}}>For startups</p>
                             <p style={{color:"#FFF", fontSize:"24px", fontWeight:"700",lineHeight:"35px",marginBlockStart:"0em",marginBlockEnd:"0em"}}>Pro</p>
@@ -85,7 +85,7 @@ function Pricing() {
 
                     <div className="" style={{padding:"40px 32px",backgroundColor:"#FFF",borderRadius:"24px"}}>
                         <div className="" style={{display:"flex", alignItems:'center',gap:"10px"}}>
-                            <img src="../../../public/images/icons/enterprice.png" alt="" />
+                            <img src="/images/icons/enterprice.png" alt="" />
                             <div className="">
                             <p style={{color:"#6F6C90", fontSize:"18px",fontWeight:"500",marginBlockStart:"0em",marginBlockEnd:"0em"}}>For big companies</p>
                             <p style={{color:"#170F49", fontSize:"24px", fontWeight:"700",lineHeight:"35px",marginBlockStart:"0em",marginBlockEnd:"0em"}}>Enterprise</p>
