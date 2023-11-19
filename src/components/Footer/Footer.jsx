@@ -31,7 +31,7 @@ function Footer() {
                                 <div className="" style={{display:"grid",gridTemplateColumns:"auto auto",justifyContent:'space-between',opacity:"65%"}}>
                                     <Link style={{color:"#FFF", fontSize:"16px",fontWeight:"400",textDecoration:"none"}} to="/">About</Link>
                                     <Link style={{color:"#FFF", fontSize:"16px",fontWeight:"400",textDecoration:"none"}} to="/">Testimonial </Link>
-                                    <Link style={{color:"#FFF", fontSize:"16px",fontWeight:"400",textDecoration:"none",marginTop:"20px"}} to="/">Features </Link>
+                                    <Link style={{color:"#FFF", fontSize:"16px",fontWeight:"400",textDecoration:"none",marginTop:"20px"}} to="#Features">Features </Link>
                                     <Link style={{color:"#FFF", fontSize:"16px",fontWeight:"400",textDecoration:"none",marginTop:"20px"}} to="/">Pricing </Link>
                                 </div>
 

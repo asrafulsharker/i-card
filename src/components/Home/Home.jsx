@@ -9,8 +9,7 @@ import Pricing from '../Pricing/Pricing'
 import Interest from '../Interest/Interest'
 import Contacts from '../Contacts/Contacts'
 import Footer from '../Footer/Footer'
-import Test from '../Test/Test'
-import Drower from '../Drower/Drower'
+
 
 
 function Home() {
