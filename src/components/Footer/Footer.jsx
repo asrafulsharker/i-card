@@ -53,7 +53,7 @@ function Footer() {
                             </div>
                             <div className="" style={{display:"flex", alignItems:"center", justifyContent:"center",flexDirection:"column"}}>
                                 <p style={{color:"#FFF", fontSize:"16px",fontWeight:"400",marginBlockEnd:"0em"}}>A product of </p>
-                                <img src="../../../public/images/incriment.png" alt="" />
+                                <img src="/images/incriment.png" alt="" />
                             </div>
                             <div className="" style={{display:"flex", alignItems:"center",justifyContent:"center",fontSize:"16px",color:"#FFF"}}>
                                 <p >© 2023 <Link to="" style={{textDecoration:'none',color:"#FFF"}}>Increments Inc </Link>. All rights reserved</p>
