@@ -1,7 +1,7 @@
 import { Button, Container } from '@mui/material'
 import React from 'react'
 import { Link } from 'react-router-dom'
-
+import './Hero.css'
 function Hero() {
     const containerStyle = {
         background: `
@@ -21,7 +21,7 @@ function Hero() {
         <div className="" style={containerStyle}>
             <div className="" style={{display:"flex", alignItems:"center"}}>
             <Container>
-            <div className="" style={{display:"flex",alignItems:"center",justifyContent:"space-between",height:"100vh"}}>
+            <div className="heroRes" style={{display:"flex",alignItems:"center",justifyContent:"space-between",height:"100vh"}}>
             <div className="left" style={{}}>
                 <p style={{fontSize:"17px", opacity:"75%",fontWeight:"400",color:"#FFF"}}>Digital Card an initiative for save paper, save tree</p>
                 <p style={{fontSize:"40px",lineHeight:"51px",letterSpacing:"-2px",fontWeight:"700",color:"#FFF"}}>iCard the Smartest Way
@@ -30,7 +30,7 @@ function Hero() {
                     <Button style={{background: "linear-gradient(90deg, #FEAF02 10.22%, #F3E3B7 100%)",borderRadius:"26px",padding:"12px 20px",color:"#4B4848"}}>Create My Card Now</Button>
                 </Link>
             </div>
-            <div className="right" style={{height:"100%",display:"flex",}}>
+            <div className="right hergoRight" style={{height:"100%",display:"flex"}}>
                 <img src="/images/hero mobile.png" style={{paddingTop:"30vh"}} alt="" />
             </div>
         </div>

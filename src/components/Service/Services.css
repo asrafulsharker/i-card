@@ -1,3 +1,18 @@
 .services{
     background: linear-gradient(180deg, #F9F9F9 0%, #DCE8F5 100%);
+
+}
+
+@media only screen and (max-width: 950px) {
+    .gridServices{
+        grid-template-columns: none !important;
+        margin-left: 0px !important;
+    }
+    .servicesFloat{
+        position: inherit !important;
+    }
+    .servicesFloat p{
+        width: 100% !important;
+        text-align: center;
+    }
 }

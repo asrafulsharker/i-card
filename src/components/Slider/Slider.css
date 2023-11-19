@@ -71,3 +71,14 @@
 .swiper-button-prev, .swiper-button-next{
     color: #FFF;
 }
+
+
+@media only screen and (max-width: 950px) {
+  .swiper-slide:nth-child(2n) {
+    width: 100% !important;
+  }
+
+  .swiper-slide:nth-child(3n) {
+    width: 100% !important;
+  }
+}

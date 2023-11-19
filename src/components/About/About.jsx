@@ -1,12 +1,13 @@
 import { Container } from '@mui/material'
 import React from 'react'
+import './About.css'
 
 function About() {
   return (
     <>
-    <div className="" style={{height:"80vh",display:"flex",alignItems:"center",backgroundColor:"#DCE8F5"}}>
+    <div className="about" style={{height:"80vh",display:"flex",alignItems:"center",backgroundColor:"#DCE8F5"}} id="about">
         <Container>
-            <div className="" style={{display:"flex",alignItems:"center",justifyContent:"space-between",gap:"100px"}}>
+            <div className="aboutRes" style={{display:"flex",alignItems:"center",justifyContent:"space-between",gap:"100px"}}>
                 <div className="left" style={{display:"flex",alignItems:"center",justifyContent:"center"}}>
                     <img src="/images/about.png" alt="" />
                 </div>

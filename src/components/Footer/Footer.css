@@ -14,3 +14,19 @@
     justify-content: center;
     cursor: pointer;
 }
+
+@media only screen and (max-width: 950px) {
+    .footerBottom{
+        flex-wrap: wrap !important;
+    }
+    .footerTop{
+        flex-wrap: wrap;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .footerTop .footerTopDiv{
+        width: 100% !important;
+        flex-wrap: wrap !important;
+    }
+}

@@ -43,50 +43,53 @@ function Interest() {
 
   const interest = {
     background: `linear-gradient(86deg, #0E7C72 -17.41%, #2CBE65 110.89%)`,
-    padding: `10% 0%`,
+    // padding: `10% 0%`,
   };
 
   return (
     <>
       <div className="" style={interest}>
-        <Container>
-          <div
-            className=""
-            style={{
-              display: 'flex',
-              flexDirection: 'column',
-              justifyContent: 'center',
-            }}
-          >
-            <div className="" style={{ width: '50%' }}>
-              <p style={{ fontSize: '17px', fontWeight: '400', opacity: '75%', color: '#FFF', marginBlockStart: '0em' }}>
-                Commonly asked question(s)
-              </p>
-              <p style={{ fontSize: '40px', fontWeight: '700', color: '#FFF', lineHeight: '51px', letterSpacing: '-2px', textTransform: 'capitalize' }}>
-                Questions that are of interest to many people
-              </p>
+        <div className="interest">
+          <Container>
+            <div
+                className=""
+                style={{
+                  display: 'flex',
+                  flexDirection: 'column',
+                  justifyContent: 'center',
+                }}
+            >
+              <div className="interestText" style={{ width: '50%' }}>
+                <p style={{ fontSize: '17px', fontWeight: '400', opacity: '75%', color: '#FFF', marginBlockStart: '0em' }}>
+                  Commonly asked question(s)
+                </p>
+                <p style={{ fontSize: '40px', fontWeight: '700', color: '#FFF', lineHeight: '51px', letterSpacing: '-2px', textTransform: 'capitalize' }}>
+                  Questions that are of interest to many people
+                </p>
+              </div>
+              <div className="interestAccordion" style={{ width: '70%' }}>
+                {accordionContent.map((item, index) => (
+                    <Accordion key={index} expanded={expanded[index]} onChange={() => handleChange(index)}>
+                      <AccordionSummary
+                          expandIcon={expanded[index] ? <RemoveIcon style={{ color: '#FFF' }} /> : <AddIcon style={{ color: '#FFF' }} />}
+                          aria-controls={`panel${index + 1}a-content`}
+                          id={`panel${index + 1}a-header`}
+                          style={{ color: '#FFF' }}
+                      >
+                        <Typography style={{ fontSize: '22px', fontWeight: '500', lineHeight: '28px', color: '#FFF' }}>{`${index + 1}. ${item.question}`}</Typography>
+                      </AccordionSummary>
+                      <AccordionDetails>
+                        <Typography style={{ color: '#FFF', fontSize: '16px', lineHeight: '28px' }}>
+                          {item.answer}
+                        </Typography>
+                      </AccordionDetails>
+                    </Accordion>
+                ))}
+              </div>
             </div>
-            <div style={{ width: '70%' }}>
-              {accordionContent.map((item, index) => (
-                <Accordion key={index} expanded={expanded[index]} onChange={() => handleChange(index)}>
-                  <AccordionSummary
-                    expandIcon={expanded[index] ? <RemoveIcon style={{ color: '#FFF' }} /> : <AddIcon style={{ color: '#FFF' }} />}
-                    aria-controls={`panel${index + 1}a-content`}
-                    id={`panel${index + 1}a-header`}
-                    style={{ color: '#FFF' }}
-                  >
-                    <Typography style={{ fontSize: '22px', fontWeight: '500', lineHeight: '28px', color: '#FFF' }}>{`${index + 1}. ${item.question}`}</Typography>
-                  </AccordionSummary>
-                  <AccordionDetails>
-                    <Typography style={{ color: '#FFF', fontSize: '16px', lineHeight: '28px' }}>
-                      {item.answer}
-                    </Typography>
-                  </AccordionDetails>
-                </Accordion>
-              ))}
-            </div>
-          </div>
-        </Container>
+          </Container>
+
+        </div>
       </div>
     </>
   );
