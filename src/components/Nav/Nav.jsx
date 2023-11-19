@@ -39,6 +39,7 @@ function Nav() {
         >
             <List >
                 <div style={{display:"flex",alignItems:'center',justifyContent:'center',flexDirection:"column",marginTop:"20px"}}>
+                    <img src="/images/iCard-logo-3 2.png" alt="" />
                     <ScrollLink to="home" smooth={true} duration={500} spy={true} exact="true" offset={-70} style={{width:"100%", textDecoration: "none", fontSize: "16px", fontWeight: "400", color: "#282927" ,cursor:'pointer',textAlign:'center',marginTop:'20px'}}>Home</ScrollLink>
                     <ScrollLink to="about" smooth={true} duration={500} spy={true} exact="true" offset={-70} style={{ textDecoration: "none", fontSize: "16px", fontWeight: "400", color: "#282927" ,cursor:'pointer',marginTop:'20px'}}>About</ScrollLink>
                     <ScrollLink to="features" smooth={true} duration={500} spy={true} exact="true" offset={-70} style={{ textDecoration: "none", fontSize: "16px", fontWeight: "400", color: "#282927" ,cursor:'pointer',marginTop:'20px'}}>Features</ScrollLink>
