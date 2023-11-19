@@ -14,42 +14,42 @@ function Service() {
                    </div>
                    <div className="grid gridServices" style={{display:"grid",gridTemplateColumns:"auto auto auto",alignItems:"center",textAlign:"center",position:"relative",gap:"10px",marginLeft:"50px"}}>
                        <div></div>
-                       <div style={{backgroundColor:"#FFF", display:"flex",flexDirection:"column",textAlign:"left",padding:"32px"}}>
+                       <div className="servicesCard" style={{backgroundColor:"#FFF", display:"flex",flexDirection:"column",textAlign:"left",padding:"32px"}}>
                            <img src="/images/icons/ph_seal-check-light.png" alt="" style={{width:"24px"}}/>
                            <p style={{fontSize:"20px",fontWeight:"700",letterSpacing:"0.4"}}>Import contact information from other sources</p>
                            <p style={{color:"#4A4747",fontSize:"16px",fontWeight:"400",lineHeight:"22px",letterSpacing:"0.48px"}}>Keep your contacts organized and up-to-date by importing them from multiple sources, ensuring you always have the right information at your fingertips.</p>
                        </div>
-                       <div style={{backgroundColor:"#E2FFEE", display:"flex",flexDirection:"column",textAlign:"left",padding:"32px"}}>
+                       <div className="servicesCard" style={{backgroundColor:"#E2FFEE", display:"flex",flexDirection:"column",textAlign:"left",padding:"32px"}}>
                            <img src="/images/icons/ph_seal-check-light.png" alt="" style={{width:"24px"}}/>
                            <p style={{fontSize:"20px",fontWeight:"700",letterSpacing:"0.4"}}>Import contact information from other sources</p>
                            <p style={{color:"#4A4747",fontSize:"16px",fontWeight:"400",lineHeight:"22px",letterSpacing:"0.48px"}}>Keep your contacts organized and up-to-date by importing them from multiple sources, ensuring you always have the right information at your fingertips.</p>
                        </div>
-                       <div style={{backgroundColor:"#FFF", display:"flex",flexDirection:"column",textAlign:"left",padding:"32px"}}>
+                       <div className="servicesCard" style={{backgroundColor:"#FFF", display:"flex",flexDirection:"column",textAlign:"left",padding:"32px"}}>
                            <img src="/images/icons/ph_seal-check-light.png" alt="" style={{width:"24px"}}/>
                            <p style={{fontSize:"20px",fontWeight:"700",letterSpacing:"0.4"}}>Import contact information from other sources</p>
                            <p style={{color:"#4A4747",fontSize:"16px",fontWeight:"400",lineHeight:"22px",letterSpacing:"0.48px"}}>Keep your contacts organized and up-to-date by importing them from multiple sources, ensuring you always have the right information at your fingertips.</p>
                        </div>
-                       <div style={{backgroundColor:"#E2FFEE", display:"flex",flexDirection:"column",textAlign:"left",padding:"32px"}}>
+                       <div className="servicesCard" style={{backgroundColor:"#E2FFEE", display:"flex",flexDirection:"column",textAlign:"left",padding:"32px"}}>
                            <img src="/images/icons/ph_seal-check-light.png" alt="" style={{width:"24px"}}/>
                            <p style={{fontSize:"20px",fontWeight:"700",letterSpacing:"0.4"}}>Import contact information from other sources</p>
                            <p style={{color:"#4A4747",fontSize:"16px",fontWeight:"400",lineHeight:"22px",letterSpacing:"0.48px"}}>Keep your contacts organized and up-to-date by importing them from multiple sources, ensuring you always have the right information at your fingertips.</p>
                        </div>
-                       <div style={{backgroundColor:"#FFF", display:"flex",flexDirection:"column",textAlign:"left",padding:"32px"}}>
+                       <div className="servicesCard" style={{backgroundColor:"#FFF", display:"flex",flexDirection:"column",textAlign:"left",padding:"32px"}}>
                            <img src="/images/icons/ph_seal-check-light.png" alt="" style={{width:"24px"}}/>
                            <p style={{fontSize:"20px",fontWeight:"700",letterSpacing:"0.4"}}>Import contact information from other sources</p>
                            <p style={{color:"#4A4747",fontSize:"16px",fontWeight:"400",lineHeight:"22px",letterSpacing:"0.48px"}}>Keep your contacts organized and up-to-date by importing them from multiple sources, ensuring you always have the right information at your fingertips.</p>
                        </div>
-                       <div style={{backgroundColor:"#E2FFEE", display:"flex",flexDirection:"column",textAlign:"left",padding:"32px"}}>
+                       <div className="servicesCard" style={{backgroundColor:"#E2FFEE", display:"flex",flexDirection:"column",textAlign:"left",padding:"32px"}}>
                            <img src="/images/icons/ph_seal-check-light.png" alt="" style={{width:"24px"}}/>
                            <p style={{fontSize:"20px",fontWeight:"700",letterSpacing:"0.4"}}>Import contact information from other sources</p>
                            <p style={{color:"#4A4747",fontSize:"16px",fontWeight:"400",lineHeight:"22px",letterSpacing:"0.48px"}}>Keep your contacts organized and up-to-date by importing them from multiple sources, ensuring you always have the right information at your fingertips.</p>
                        </div>
-                       <div style={{backgroundColor:"#FFF", display:"flex",flexDirection:"column",textAlign:"left",padding:"32px"}}>
+                       <div className="servicesCard" style={{backgroundColor:"#FFF", display:"flex",flexDirection:"column",textAlign:"left",padding:"32px"}}>
                            <img src="/images/icons/ph_seal-check-light.png" alt="" style={{width:"24px"}}/>
                            <p style={{fontSize:"20px",fontWeight:"700",letterSpacing:"0.4"}}>Import contact information from other sources</p>
                            <p style={{color:"#4A4747",fontSize:"16px",fontWeight:"400",lineHeight:"22px",letterSpacing:"0.48px"}}>Keep your contacts organized and up-to-date by importing them from multiple sources, ensuring you always have the right information at your fingertips.</p>
                        </div>
-                       <div style={{backgroundColor:"#E2FFEE", display:"flex",flexDirection:"column",textAlign:"left",padding:"32px"}}>
+                       <div className="servicesCard" style={{backgroundColor:"#E2FFEE", display:"flex",flexDirection:"column",textAlign:"left",padding:"32px"}}>
                            <img src="/images/icons/ph_seal-check-light.png" alt="" style={{width:"24px"}}/>
                            <p style={{fontSize:"20px",fontWeight:"700",letterSpacing:"0.4"}}>Import contact information from other sources</p>
                            <p style={{color:"#4A4747",fontSize:"16px",fontWeight:"400",lineHeight:"22px",letterSpacing:"0.48px"}}>Keep your contacts organized and up-to-date by importing them from multiple sources, ensuring you always have the right information at your fingertips.</p>
