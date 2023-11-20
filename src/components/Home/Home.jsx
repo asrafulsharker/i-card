@@ -9,6 +9,8 @@ import Pricing from '../Pricing/Pricing'
 import Interest from '../Interest/Interest'
 import Contacts from '../Contacts/Contacts'
 import Footer from '../Footer/Footer'
+import RegisterForm from "../Test/Test.jsx";
+import LoginForm from "../Test/Test2.jsx";
 
 
 
@@ -26,6 +28,8 @@ function Home() {
             <Interest/>
             <Contacts/>
             <Footer/>
+            {/*<RegisterForm/>*/}
+            {/*<LoginForm/>*/}
         </div>
     </>
 
